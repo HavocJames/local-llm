@@ -9,4 +9,6 @@ go to https://huggingface.co/ find the model you wish to try get the repo ID and
 # step 3
 run the code 
 the model will be downloaded locally once completed you can start using your local llm
-https://github.com/HavocJames/local-llm/assets/124689464/308f7228-486f-45b5-9d7d-cd77b9f09edb
+
+
+[play video](https://github.com/HavocJames/local-llm/assets/124689464/308f7228-486f-45b5-9d7d-cd77b9f09edb)
